@@ -98,6 +98,6 @@ def mainMenu():
     except:
         mainMenuSelection = 0
 
-    if mainMenuSelection not in mainMenuDict.keys(): mainMenuSelection = 0
+    if mainMenuSelection not in mainMenuDict.keys():mainMenuSelection = 0
 
     return mainMenuSelection

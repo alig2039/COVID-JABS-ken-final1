@@ -1,4 +1,4 @@
-# This file will template the survey question classes and methods that will handle the survey questions
+# This file will template the survey question classes and methods that will handle the survey questions#
 
 from dataclasses import dataclass
 
